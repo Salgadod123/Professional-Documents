@@ -15,7 +15,7 @@ Explore my [GitHub portfolio](https://github.com/Salgadod123) or view my work on
 
 ## Contact
 
-- Email: salgadod@appstate.edu
+- [LinkedIn](https://www.linkedin.com/in/david-salgado164/)
 - Location: Boone, North Carolina
 
 > The PDF files were not modified as part of this documentation update.
