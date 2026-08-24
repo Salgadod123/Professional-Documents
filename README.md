@@ -4,7 +4,8 @@ This repository contains résumé and cover-letter materials for entry-level and
 
 ## Contents
 
-- [`Data Analyst-David Salgado.pdf`](Data%20Analyst-David%20Salgado.pdf) — résumé prepared for direct viewing.
+- [`David-Salgado-Resume-ATS.pdf`](David-Salgado-Resume-ATS.pdf) — current ATS-friendly résumé for online applications and automated screening systems.
+- [`David-Salgado-Resume-Visual.pdf`](David-Salgado-Resume-Visual.pdf) — current visually formatted résumé for direct review by recruiters and hiring managers.
 - [`Cover Letter - David Salgado.pdf`](Cover%20Letter%20-%20David%20Salgado.pdf) — customizable cover letter focused on analytical and technical work.
 
 ## About Me
@@ -18,4 +19,4 @@ Explore my [GitHub portfolio](https://github.com/Salgadod123) or view my work on
 - [LinkedIn](https://www.linkedin.com/in/david-salgado164/)
 - Location: Boone, North Carolina
 
-> The PDF files were not modified as part of this documentation update.
+> The resume PDFs were published exactly as provided; their contents were not modified during this repository update.
